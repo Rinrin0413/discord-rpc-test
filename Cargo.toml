@@ -1,0 +1,13 @@
+[package]
+name = "discord-rpc-test"
+description = "discord-rpc-client で游ぶ"
+version = "0.1.0"
+authors = ["Rinrin.rs rinrin0413.valley@gmail.com"]
+license = "[MIT] MIT License"
+repository = "https://github.com/Rinrin0413/discord-rpc-test"
+readme = "README.md"
+edition = "2021"
+
+[dependencies]
+discord-rpc-client = "0.3.0"
+chrono = "0.4"
